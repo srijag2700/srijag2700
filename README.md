@@ -4,7 +4,7 @@ My name is **Srija Gottiparthi** (she/her/hers). I'm a **junior** at **Rutgers U
 
 In summer 2020, I was a **Software Engineering Intern** at **American Express**, on their **Cloud Engineering** team.  
 
-I'm also the **Vice President & Events Coordinator** of **Rutgers USACS**, which is the largest Computer Science student organization at Rutgers,  
+I'm also the **Vice President & Events Coordinator** of **Rutgers USACS**, the largest Computer Science student organization at Rutgers,  
 and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run hackathon.
 
 I'm interested in **Software Engineering, Project/Product Management, and Data Science roles**, and am currently looking for a **Summer 2021 internship** in any of these fields.  
