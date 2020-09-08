@@ -9,7 +9,7 @@ and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run h
 
 I'm interested in **Software Engineering, Project/Product Management, and Data Science roles**, and am currently looking for a **Summer 2021 internship** in any of these fields.  
 
-:inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/srija-g/).
+:inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/srija-g/). Please mention in your connection request that you're coming from my Github!
 
 <!--
 **srijag2700/srijag2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
