@@ -9,7 +9,7 @@ Besides that, in **Summer 2020** I was a **Software Engineering Intern** at **Am
 I'm also the **Vice President & Events Coordinator** of **Rutgers USACS**, the largest Computer Science student organization at Rutgers,  
 and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run hackathon.
 
-I'm interested in **Software Engineering, Project/Product Management, and Data Science roles**!  
+I'm interested in **Software Engineering, Project/Product Management, and Data Science**!  
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/srija-g/). Please mention in your connection request that you're coming from my Github!
 
