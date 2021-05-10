@@ -9,7 +9,7 @@ I also hold a part-time job on campus with **Rutgers Office of Information Techn
 
 Outside of school and work, I'm the **Vice President & Events Coordinator** of **Rutgers USACS**, the largest Computer Science student organization at Rutgers, and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run hackathon.
 
-I'm interested in **Software Engineering, Project/Product Management, and Data Science**!  
+I'm interested in **software engineering, product management, AI/ML, mobile development, and data science**!  
 
 :inbox_tray: I can be reached on [**LinkedIn**](https://www.linkedin.com/in/srija-g/). Please mention in your connection request that you're coming from my Github!
 
