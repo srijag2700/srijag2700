@@ -7,8 +7,7 @@ In **Summer 2021**, I'll be joining **JPMorgan Chase** in New York City as a **S
 Besides that, in **Summer 2020** I was a **Software Engineering Intern** at **American Express** in New York City, on the **Cloud Engineering** team.  
 I also hold a part-time job on campus with **Rutgers Office of Information Technology** as a **Consultant**, working both in-person and remotely to assist students, faculty, and staff with technical issues related to Rutgers tools and systems.
 
-Outside of school and work, I'm the **Vice President & Events Coordinator** of **Rutgers USACS**, the largest Computer Science student organization at Rutgers,  
-and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run hackathon.
+Outside of school and work, I'm the **Vice President & Events Coordinator** of **Rutgers USACS**, the largest Computer Science student organization at Rutgers, and I'm a **Marketing Director** for **HackRU**, Rutgers' biannual student-run hackathon.
 
 I'm interested in **Software Engineering, Project/Product Management, and Data Science**!  
 
