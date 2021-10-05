@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is **Srija Gottiparthi** (she/her/hers). I'm a **rising senior** at **Rutgers University** (graduating May 2022), double majoring in **Business Analytics & Information Technology** (known as **BAIT**), and **Computer Science**.  
+My name is **Srija Gottiparthi** (she/her/hers). I'm a **senior** at **Rutgers University** (graduating May 2022), double majoring in **Business Analytics & Information Technology** (known as **BAIT**), and **Computer Science**.  
 
 In **Summer 2021**, I interned at **JPMorgan Chase** in New York City as a **Software Engineering Intern**, under **Digital Technology** in the **Consumer & Community Banking** line of business. Specifically, I worked on the **Chase Android app!**
 
