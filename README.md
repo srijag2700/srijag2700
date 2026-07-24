@@ -2,7 +2,7 @@
 
 My name is **Srija Gottiparthi** (she/her/hers). I'm a **Rutgers University graduate** who double majored in **Business Analytics & Information Technology** (known as **BAIT**), and **Computer Science**. 
 
-I currently work at **Substack** as a **Full-Stack Engineer** on the **Community** team!
+I currently work at **Substack** in San Francisco as a **Full-Stack Engineer** on the **Community** team!
 
 My past experiences include...
 * **Headway**, San Francisco (Remote): **Software Engineer** on the **Network Value** team. 
